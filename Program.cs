@@ -39,9 +39,9 @@ class Program
         while (start)
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("1 => Screen");
+            Console.WriteLine("Enter => Screen");
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("2 => Exit");
+            Console.WriteLine("Escape => Exit");
             Console.ForegroundColor = ConsoleColor.White;
             key = Console.ReadKey();
             if (key.Key == ConsoleKey.Enter)
