@@ -1,0 +1,14 @@
+C:\Users\Senan\source\repos\ScreenShot-CS\bin\Debug\net6.0\ScreenShot-CS.exe
+C:\Users\Senan\source\repos\ScreenShot-CS\bin\Debug\net6.0\ScreenShot-CS.deps.json
+C:\Users\Senan\source\repos\ScreenShot-CS\bin\Debug\net6.0\ScreenShot-CS.runtimeconfig.json
+C:\Users\Senan\source\repos\ScreenShot-CS\bin\Debug\net6.0\ScreenShot-CS.dll
+C:\Users\Senan\source\repos\ScreenShot-CS\bin\Debug\net6.0\ScreenShot-CS.pdb
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ScreenShot-CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ScreenShot-CS.AssemblyInfoInputs.cache
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ScreenShot-CS.AssemblyInfo.cs
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ScreenShot-CS.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ScreenShot-CS.dll
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\refint\ScreenShot-CS.dll
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ScreenShot-CS.pdb
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ScreenShot-CS.genruntimeconfig.cache
+C:\Users\Senan\source\repos\ScreenShot-CS\obj\Debug\net6.0\ref\ScreenShot-CS.dll
